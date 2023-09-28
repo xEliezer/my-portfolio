@@ -7,16 +7,16 @@ const Home = () => {
             <div className='w-20 p-8'>
                 <ul>
                     <li>
-                          <a href="https://github.com/xEliezer"><i class="fa-brands fa-github p-3"></i></a>
+                          <a href="https://github.com/xEliezer"><i className="hover:text-gray-500 fa-brands fa-github p-3"></i></a>
                     </li>
                     <li>
-                          <a href="https://www.facebook.com/eliezer.layug"><i class="fa-brands fa-facebook p-3"></i></a>
+                          <a href="https://www.facebook.com/eliezer.layug"><i className="hover:text-gray-500 fa-brands fa-facebook p-3"></i></a>
                     </li>
                     <li>
-                          <a href="https://www.instagram.com/eliezerlayug/"><i class="fa-brands fa-instagram p-3"></i></a>
+                          <a href="https://www.instagram.com/eliezerlayug/"><i className="hover:text-gray-500 fa-brands fa-instagram p-3"></i></a>
                     </li>
                     <li>
-                          <a href="https://www.linkedin.com/in/eliezer-layug-6960bb283/"><i class="fa-brands fa-linkedin p-3"></i></a>
+                          <a href="https://www.linkedin.com/in/eliezer-layug-6960bb283/"><i className="hover:text-gray-500 fa-brands fa-linkedin p-3"></i></a>
                     </li>
                 </ul>
             </div>

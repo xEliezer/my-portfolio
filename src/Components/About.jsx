@@ -11,6 +11,7 @@ const About = () => {
                     <div className="col">
                         <h1 className="font-bold text-xl p-8">About</h1>
                         <br />
+                        <hr />
                         <p className="text-lg p-8 leading-8">
                             <span className="font-bold text-xl">Hi! I'am Eliezer but they call me Elie!</span>
                             <br />
