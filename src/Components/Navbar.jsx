@@ -16,11 +16,9 @@ const Navbar = () => {
                 </li>
                 <li className="navlink">
                     <a href="/contact" className="items-center font-bold text-xl p-4 hover:text-gray-400">contact</a>
-                </li>
-                
-                <li className="navlink">
-                    <i className="button fa-solid fa-cloud-sun text-xl p-5"></i>
-                </li>
+                </li>      
+                    
+                <button><i className="fa-solid fa-sun text-xl ms-2 me-0 p-4 hover:text-yellow-500"></i></button>
             </ul>
         </nav>
     )

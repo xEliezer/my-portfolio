@@ -4,8 +4,9 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 import Header from './Header/Header';
 import Footer from './Footer/Footer';
-import Home from './Components/Home';
-import About from './Components/About';
+import Home from './Pages/Home';
+import About from './Pages/About';
+import Projects from './Pages/Projects';
 
 function App() {
   return (
@@ -14,6 +15,8 @@ function App() {
         <Home />
 
         <About />
+
+        <Projects />
       <Footer />
     </>
   );
